@@ -1,0 +1,11 @@
+# Text World AI Agent Requirements
+
+# This project uses only Python's built-in libraries.
+# No external packages are required.
+
+python>=3.9
+
+textworld>=1.5.4
+gymnasium>=0.29.1
+networkx>=3.2
+numpy>=1.26.0
